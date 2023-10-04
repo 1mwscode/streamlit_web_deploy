@@ -98,7 +98,8 @@ def display_statistics_and_graph(df, selected_states, selected_livestocks, color
                 color_discrete_map= color_mapping)
         
         fig2 = px.pie(grouped_df, values='count', names='prt_type_nm', 
-                 color='prt_type_nm', 
+                 color='prt_type_nm',
+                 labels={'count':'축사 수', 'prt_type_nm':'축사 종류'},
                  hole =0.2,
                  title='축사별 현황 차트',
                  color_discrete_map=color_mapping)
