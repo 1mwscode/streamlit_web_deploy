@@ -6,4 +6,3 @@ streamlit_aggrid
 streamlit_folium
 plotly
 matplotlib
-python=3.9
