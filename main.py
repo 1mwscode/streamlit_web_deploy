@@ -1,4 +1,3 @@
-# 라이브러리
 import ast
 import folium
 import pandas as pd
