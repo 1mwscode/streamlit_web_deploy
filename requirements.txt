@@ -1,0 +1,10 @@
+ast
+folium
+pandas
+geopandas
+streamlit
+st_aggrid
+streamlit_folium
+plotly
+shapely
+matplotlib
