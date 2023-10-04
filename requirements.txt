@@ -8,3 +8,4 @@ streamlit_folium
 plotly
 shapely
 matplotlib
+python==3.9
